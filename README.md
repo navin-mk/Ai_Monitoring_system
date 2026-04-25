@@ -44,8 +44,8 @@ project/
 ## Setup Instructions
 
 ### Clone the Repository
-git clone https://github.com/YOUR_USERNAME/ai-monitoring-dashboard.git
-cd ai-monitoring-dashboard
+git clone https://github.com/navin-mk/Ai_Monitoring_system.git
+cd Ai_Monitoring_system
 
 ### Backend Setup
 python -m venv venv
